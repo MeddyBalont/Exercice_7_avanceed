@@ -1,5 +1,7 @@
 function Home() {
-      return <div>Page d'acceuil</div>
+      return <div>
+              <h1> Page d'accueil 🏠</h1>
+      </div>
 }
 
 export default Home
